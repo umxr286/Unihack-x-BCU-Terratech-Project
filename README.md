@@ -6,66 +6,77 @@ A lightweight and accessible dashboard that analyses open environmental data (ai
 
 This project empowers residents, councils, researchers, and community groups to understand the environmental health of local areas at a glance.
 
-Why This Matters?
-Cities collect environmental data — but it’s scattered and hard to understand.
+⸻
 
-Our dashboard brings it together so anyone can quickly see:
-	- How clean the air is
-	- How noisy the area is
-	- How much green space is available
-	- Which neighbourhoods are healthiest 
-	- Where improvements are needed (future development)
+Why This Matters
 
-This contributes to goals around environmental justice, public health, and urban planning.
+Cities collect environmental data — but it’s often scattered, inconsistent, and hard to interpret.
 
-Core Features:
+Our dashboard brings it all together so anyone can quickly see:
+	•	How clean the air is
+	•	How noisy the area is
+	•	How much green space is available
+	•	Which neighbourhoods are healthiest
+	•	Where improvements are needed (future development)
 
-Sustainability Score per Neighbourhood:
+This contributes to key goals in environmental justice, public health, and smart urban planning.
 
-- Combines air, noise, and green-access into a single easy-to-read score (0–100):
+⸻
 
-Air Quality:
+Core Features
 
-- PM2.5, PM10, NO₂ data transformed into a normalised score:
+Sustainability Score per Neighbourhood
+
+Combines air, noise, and green-access into a single easy-to-read score (0–100).
+
+⸻
+
+Air Quality
+	•	Uses PM2.5, PM10, and NO₂ values
+	•	Converts them into a normalised 0–100 score
+
+⸻
 
 Noise Pollution
+	•	Noise levels mapped across Birmingham
+	•	Converted into a liveability score
 
-- Noise levels mapped across Birmingham and converted into a liveability score:
+⸻
 
- Green Space Accessibility
+Green Space Accessibility
+	•	High / Medium / Low accessibility
+	•	Based on proximity to major parks or green corridors
 
-- High/Medium/Low green access rating based on proximity to major parks/green corridors:
+⸻
 
- Dataset Integration:
+Dataset Integration
+	•	All environmental metrics combined using
+postcode → district mapping
 
-- All environmental metrics merged using postcode → district mapping:
+⸻
 
+Screenshots
 
-Screenshots:
-(|Goes here|) 
-
-
-Future Improvements:
-
- Live Data Integration:
-	- Real-time air quality and noise updates
-	- Automatic daily refresh of sustainability scores
-
- Machine Learning Enhancements:
-	- Predict future environmental health
-	- Identify at-risk neighbourhoods
-
- What-If Simulation Panel:
-	- Add trees → how much score improves?
-	- Reduce traffic → noise score impact
-	- Add cycle lanes → air quality effect
-
- Mobile App Version:
-	- On-the-go environmental health insights
-
-	
+(Insert images here)
 
 
+⸻
 
+Future Improvements
 
+Live Data Integration
+	•	Real-time air quality and noise updates
+	•	Automatic daily refresh of sustainability scores
 
+Machine Learning Enhancements
+	•	Predict future environmental health
+	•	Identify at-risk neighbourhoods
+
+What-If Simulation Panel
+	•	Add trees → see potential score improvement
+	•	Reduce traffic → noise score impact
+	•	Add cycle lanes → air quality effect
+
+Mobile App Version
+	•	On-the-go environmental insights
+	•	Real-time notifications for local air & noise alerts
