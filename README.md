@@ -24,7 +24,7 @@ Sustainability Score per Neighbourhood:
 
 - Combines air, noise, and green-access into a single easy-to-read score (0–100):
 
-Air Quality
+Air Quality:
 
 - PM2.5, PM10, NO₂ data transformed into a normalised score:
 
@@ -36,7 +36,7 @@ Noise Pollution
 
 - High/Medium/Low green access rating based on proximity to major parks/green corridors:
 
- Dataset Integration
+ Dataset Integration:
 
 - All environmental metrics merged using postcode → district mapping:
 
@@ -47,21 +47,21 @@ Screenshots:
 
 Future Improvements:
 
- Live Data Integration
+ Live Data Integration:
 	- Real-time air quality and noise updates
 	- Automatic daily refresh of sustainability scores
 
- Machine Learning Enhancements
+ Machine Learning Enhancements:
 	- Predict future environmental health
 	- Identify at-risk neighbourhoods
 
- What-If Simulation Panel
+ What-If Simulation Panel:
 	- Add trees → how much score improves?
 	- Reduce traffic → noise score impact
 	- Add cycle lanes → air quality effect
 
- Mobile App Version
-	-On-the-go environmental health insights
+ Mobile App Version:
+	- On-the-go environmental health insights
 
 	
 
