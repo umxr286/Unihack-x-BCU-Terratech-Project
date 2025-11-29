@@ -20,25 +20,25 @@ This contributes to goals around environmental justice, public health, and urban
 
 Core Features:
 
-- Sustainability Score per Neighbourhood
+Sustainability Score per Neighbourhood:
 
-Combines air, noise, and green-access into a single easy-to-read score (0–100).
+- Combines air, noise, and green-access into a single easy-to-read score (0–100):
 
-- Air Quality
+Air Quality
 
-PM2.5, PM10, NO₂ data transformed into a normalised score.
+- PM2.5, PM10, NO₂ data transformed into a normalised score:
 
-- Noise Pollution
+Noise Pollution
 
-Noise levels mapped across Birmingham and converted into a liveability score.
+- Noise levels mapped across Birmingham and converted into a liveability score:
 
-- Green Space Accessibility
+ Green Space Accessibility
 
-High/Medium/Low green access rating based on proximity to major parks/green corridors.
+- High/Medium/Low green access rating based on proximity to major parks/green corridors:
 
-- Dataset Integration
+ Dataset Integration
 
-All environmental metrics merged using postcode → district mapping.
+- All environmental metrics merged using postcode → district mapping:
 
 
 Screenshots:
