@@ -62,21 +62,3 @@ Screenshots
 
 ⸻
 
-Future Improvements
-
-Live Data Integration
-	-	Real-time air quality and noise updates
-	-	Automatic daily refresh of sustainability scores
-
-Machine Learning Enhancements
-	-	Predict future environmental health
-	-	Identify at-risk neighbourhoods
-
-What-If Simulation Panel
-	-	Add trees → see potential score improvement
-	-	Reduce traffic → noise score impact
-	-	Add cycle lanes → air quality effect
-
-Mobile App Version
-	-	On-the-go environmental insights
-	-	Real-time notifications for local air & noise alerts
