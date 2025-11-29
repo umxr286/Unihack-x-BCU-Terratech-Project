@@ -1,36 +1,71 @@
-# Unihack-x-BCU-Terratech-Project
+Unihack x BCU – Terratech Project
 
-A simple and accessible dashboard that analyses open environmental datasets (air quality, noise pollution, and green spaces) to generate a sustainability score for each neighbourhood across Birmingham UK.
+Birmingham Neighbourhood Sustainability Dashboard
 
-📖This project helps residents, local councils, and community groups understand how healthy and liveable different areas are at a glance.
+A lightweight and accessible dashboard that analyses open environmental data (air quality, noise pollution, and green-space access) to generate a Sustainability Score for every neighbourhood across Birmingham, UK.
 
+This project empowers residents, councils, researchers, and community groups to understand the environmental health of local areas at a glance.
 
-Features:
+Why This Matters?
+Cities collect environmental data — but it’s scattered and hard to understand.
 
-- Neighbourhood Sustainability Score
-- Green Space Coverage Analysis
-- Air Quality Monitoring
-- Noise Level Insights
-- Comparison View for multiple neighbourhoods (future enhancements)
-- What If Panel (future enhancement)
+Our dashboard brings it together so anyone can quickly see:
+	- How clean the air is
+	- How noisy the area is
+	- How much green space is available
+	- Which neighbourhoods are healthiest 
+	- Where improvements are needed (future development)
 
-Final Output Example:
+This contributes to goals around environmental justice, public health, and urban planning.
 
-{
-  "postcode": "B1 1AA",
-  "air_score": 62,
-  "noise_score": 48,
-  "green_score": 72,
-  "sustainability_score": 61
-}
+Core Features:
+
+- Sustainability Score per Neighbourhood
+
+Combines air, noise, and green-access into a single easy-to-read score (0–100).
+
+- Air Quality
+
+PM2.5, PM10, NO₂ data transformed into a normalised score.
+
+- Noise Pollution
+
+Noise levels mapped across Birmingham and converted into a liveability score.
+
+- Green Space Accessibility
+
+High/Medium/Low green access rating based on proximity to major parks/green corridors.
+
+- Dataset Integration
+
+All environmental metrics merged using postcode → district mapping.
+
 
 Screenshots:
-Add app screenshots here)
-! Dashboard Screenshot
+(|Goes here|) 
 
 
-Future Improvements
-	•	Live data updates from open city APIs
-	•	ML models predicting future environmental health
-	•	“What-If” panel showing how improvements change scores
-	•	Mobile-friendly UI
+Future Improvements:
+
+ Live Data Integration
+	- Real-time air quality and noise updates
+	- Automatic daily refresh of sustainability scores
+
+ Machine Learning Enhancements
+	- Predict future environmental health
+	- Identify at-risk neighbourhoods
+
+ What-If Simulation Panel
+	- Add trees → how much score improves?
+	- Reduce traffic → noise score impact
+	- Add cycle lanes → air quality effect
+
+ Mobile App Version
+	-On-the-go environmental health insights
+
+	
+
+
+
+
+
