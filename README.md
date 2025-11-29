@@ -1,29 +1,36 @@
 # Unihack-x-BCU-Terratech-Project
 
-🌍 Community Environmental Impact Dashboard
-A Flutter-powered app to visualize sustainability health across neighbourhoods.
+A simple and accessible dashboard that analyses open environmental datasets (air quality, noise pollution, and green spaces) to generate a sustainability score for each neighbourhood across Birmingham UK.
 
-📖 Overview
-This app aggregates open city datasets (air quality, noise levels, green spaces) and provides an interactive dashboard to help communities understand and improve their environmental health.
+📖This project helps residents, local councils, and community groups understand how healthy and liveable different areas are at a glance.
 
-✨ Features
 
-✅ Neighbourhood Sustainability Score
-🌱 Green Space Coverage Analysis
-🌬️ Air Quality Monitoring
-🔊 Noise Level Insights
-📊 Comparison View for multiple neighbourhoods
-🔮 What-If Panel (future enhancement)
+Features:
 
-🖼️ Screenshots
-(Add your app screenshots here)
-!Dashboard Screenshot
-!Comparison View
+- Neighbourhood Sustainability Score
+- Green Space Coverage Analysis
+- Air Quality Monitoring
+- Noise Level Insights
+- Comparison View for multiple neighbourhoods (future enhancements)
+- What If Panel (future enhancement)
 
-🛠️ Tech Stack
+Final Output Example:
 
-Flutter (UI & cross-platform development)
-Dart
-REST API Integration
-State Management: Provider / Riverpod
-Data Visualization: charts_flutter / fl_chart
+{
+  "postcode": "B1 1AA",
+  "air_score": 62,
+  "noise_score": 48,
+  "green_score": 72,
+  "sustainability_score": 61
+}
+
+Screenshots:
+Add app screenshots here)
+! Dashboard Screenshot
+
+
+Future Improvements
+	•	Live data updates from open city APIs
+	•	ML models predicting future environmental health
+	•	“What-If” panel showing how improvements change scores
+	•	Mobile-friendly UI
