@@ -1,4 +1,5 @@
 # Unihack-x-BCU-Terratech-Project
+
 🌍 Community Environmental Impact Dashboard
 A Flutter-powered app to visualize sustainability health across neighbourhoods.
 
@@ -13,7 +14,6 @@ This app aggregates open city datasets (air quality, noise levels, green spaces)
 🔊 Noise Level Insights
 📊 Comparison View for multiple neighbourhoods
 🔮 What-If Panel (future enhancement)
-
 
 🖼️ Screenshots
 (Add your app screenshots here)
