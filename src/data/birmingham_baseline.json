@@ -1,0 +1,515 @@
+[
+  {
+    "postcode": "B1",
+    "area": "City Centre West",
+    "air": 42,
+    "noise": 82,
+    "green": 35,
+    "score": 45,
+    "strengths": ["Excellent transport links"],
+    "weaknesses": ["High noise", "Low green space"]
+  },
+  {
+    "postcode": "B2",
+    "area": "City Centre East",
+    "air": 44,
+    "noise": 80,
+    "green": 38,
+    "score": 47,
+    "strengths": ["Economic activity"],
+    "weaknesses": ["Traffic pollution", "Noise"]
+  },
+  {
+    "postcode": "B3",
+    "area": "Edgbaston Fringe",
+    "air": 65,
+    "noise": 60,
+    "green": 60,
+    "score": 62,
+    "strengths": ["Balanced urban living"],
+    "weaknesses": ["Traffic corridors"]
+  },
+  {
+    "postcode": "B4",
+    "area": "Jewellery Quarter",
+    "air": 55,
+    "noise": 70,
+    "green": 40,
+    "score": 52,
+    "strengths": ["Dense amenities"],
+    "weaknesses": ["Limited green space"]
+  },
+  {
+    "postcode": "B5",
+    "area": "Digbeth",
+    "air": 50,
+    "noise": 78,
+    "green": 42,
+    "score": 50,
+    "strengths": ["Creative regeneration"],
+    "weaknesses": ["Noise", "Air pollution"]
+  },
+  {
+    "postcode": "B6",
+    "area": "Aston",
+    "air": 48,
+    "noise": 75,
+    "green": 40,
+    "score": 48,
+    "strengths": ["Community parks"],
+    "weaknesses": ["Traffic emissions"]
+  },
+  {
+    "postcode": "B7",
+    "area": "Nechells",
+    "air": 45,
+    "noise": 74,
+    "green": 38,
+    "score": 46,
+    "strengths": ["Industrial redevelopment"],
+    "weaknesses": ["Air pollution"]
+  },
+  {
+    "postcode": "B8",
+    "area": "Washwood Heath",
+    "air": 47,
+    "noise": 72,
+    "green": 41,
+    "score": 48,
+    "strengths": ["Local open spaces"],
+    "weaknesses": ["Traffic noise"]
+  },
+  {
+    "postcode": "B9",
+    "area": "Bordesley Green",
+    "air": 46,
+    "noise": 73,
+    "green": 42,
+    "score": 49,
+    "strengths": ["Residential stability"],
+    "weaknesses": ["Air quality"]
+  },
+  {
+    "postcode": "B10",
+    "area": "Small Heath",
+    "air": 47,
+    "noise": 74,
+    "green": 40,
+    "score": 48,
+    "strengths": ["Community access"],
+    "weaknesses": ["Noise pollution"]
+  },
+  {
+    "postcode": "B11",
+    "area": "Sparkbrook",
+    "air": 50,
+    "noise": 70,
+    "green": 45,
+    "score": 52,
+    "strengths": ["Local parks"],
+    "weaknesses": ["Moderate congestion"]
+  },
+  {
+    "postcode": "B12",
+    "area": "Sparkhill",
+    "air": 52,
+    "noise": 68,
+    "green": 48,
+    "score": 54,
+    "strengths": ["Urban greenery"],
+    "weaknesses": ["Congestion"]
+  },
+  {
+    "postcode": "B13",
+    "area": "Moseley",
+    "air": 72,
+    "noise": 52,
+    "green": 75,
+    "score": 72,
+    "strengths": ["Large parks", "Good air"],
+    "weaknesses": ["Busy arterial roads"]
+  },
+  {
+    "postcode": "B14",
+    "area": "Kings Heath",
+    "air": 68,
+    "noise": 55,
+    "green": 70,
+    "score": 69,
+    "strengths": ["Strong green corridors"],
+    "weaknesses": ["Peak-hour traffic"]
+  },
+  {
+    "postcode": "B15",
+    "area": "Edgbaston",
+    "air": 78,
+    "noise": 55,
+    "green": 88,
+    "score": 78,
+    "strengths": ["High green space"],
+    "weaknesses": ["University traffic"]
+  },
+  {
+    "postcode": "B16",
+    "area": "Ladywood",
+    "air": 58,
+    "noise": 65,
+    "green": 55,
+    "score": 58,
+    "strengths": ["Urban parks"],
+    "weaknesses": ["Road noise"]
+  },
+  {
+    "postcode": "B17",
+    "area": "Harborne",
+    "air": 72,
+    "noise": 52,
+    "green": 75,
+    "score": 71,
+    "strengths": ["Low noise"],
+    "weaknesses": ["Traffic corridors"]
+  },
+  {
+    "postcode": "B18",
+    "area": "Hockley",
+    "air": 54,
+    "noise": 68,
+    "green": 45,
+    "score": 52,
+    "strengths": ["City proximity"],
+    "weaknesses": ["Limited green areas"]
+  },
+  {
+    "postcode": "B19",
+    "area": "Lozells",
+    "air": 50,
+    "noise": 72,
+    "green": 44,
+    "score": 50,
+    "strengths": ["Community parks"],
+    "weaknesses": ["Urban congestion"]
+  },
+  {
+    "postcode": "B20",
+    "area": "Handsworth Wood",
+    "air": 60,
+    "noise": 60,
+    "green": 60,
+    "score": 60,
+    "strengths": ["Balanced environment"],
+    "weaknesses": ["Main road traffic"]
+  },
+  {
+    "postcode": "B21",
+    "area": "Handsworth",
+    "air": 48,
+    "noise": 74,
+    "green": 42,
+    "score": 49,
+    "strengths": ["Urban parks"],
+    "weaknesses": ["Noise", "Air quality"]
+  },
+  {
+    "postcode": "B22",
+    "area": "Perry Barr",
+    "air": 55,
+    "noise": 65,
+    "green": 52,
+    "score": 55,
+    "strengths": ["Green corridors"],
+    "weaknesses": ["Ring road traffic"]
+  },
+  {
+    "postcode": "B23",
+    "area": "Erdington",
+    "air": 58,
+    "noise": 62,
+    "green": 58,
+    "score": 59,
+    "strengths": ["Local parks"],
+    "weaknesses": ["Commuter congestion"]
+  },
+  {
+    "postcode": "B24",
+    "area": "Tyburn",
+    "air": 60,
+    "noise": 60,
+    "green": 62,
+    "score": 61,
+    "strengths": ["Residential greenery"],
+    "weaknesses": ["Traffic corridors"]
+  },
+  {
+    "postcode": "B25",
+    "area": "Yardley",
+    "air": 58,
+    "noise": 61,
+    "green": 57,
+    "score": 58,
+    "strengths": ["Suburban layout"],
+    "weaknesses": ["Congestion"]
+  },
+  {
+    "postcode": "B26",
+    "area": "Sheldon",
+    "air": 60,
+    "noise": 58,
+    "green": 60,
+    "score": 60,
+    "strengths": ["Balanced density"],
+    "weaknesses": ["Airport proximity"]
+  },
+  {
+    "postcode": "B27",
+    "area": "Acocks Green",
+    "air": 65,
+    "noise": 60,
+    "green": 58,
+    "score": 61,
+    "strengths": ["Balanced mix"],
+    "weaknesses": ["Main corridor pollution"]
+  },
+  {
+    "postcode": "B28",
+    "area": "Hall Green",
+    "air": 68,
+    "noise": 58,
+    "green": 65,
+    "score": 67,
+    "strengths": ["Green residential"],
+    "weaknesses": ["Peak traffic"]
+  },
+  {
+    "postcode": "B29",
+    "area": "Selly Oak",
+    "air": 62,
+    "noise": 65,
+    "green": 60,
+    "score": 60,
+    "strengths": ["Canals and parks"],
+    "weaknesses": ["Student traffic"]
+  },
+  {
+    "postcode": "B30",
+    "area": "Bournville",
+    "air": 82,
+    "noise": 40,
+    "green": 90,
+    "score": 85,
+    "strengths": ["Excellent environment"],
+    "weaknesses": ["Longer commute"]
+  },
+  {
+    "postcode": "B31",
+    "area": "Northfield",
+    "air": 70,
+    "noise": 52,
+    "green": 75,
+    "score": 72,
+    "strengths": ["Major green spaces"],
+    "weaknesses": ["Ring road traffic"]
+  },
+  {
+    "postcode": "B32",
+    "area": "Bartley Green",
+    "air": 72,
+    "noise": 50,
+    "green": 78,
+    "score": 74,
+    "strengths": ["Reservoir green zone"],
+    "weaknesses": ["Transport dependency"]
+  },
+  {
+    "postcode": "B33",
+    "area": "Shard End",
+    "air": 50,
+    "noise": 68,
+    "green": 46,
+    "score": 52,
+    "strengths": ["Stable residential"],
+    "weaknesses": ["Pollution corridors"]
+  },
+  {
+    "postcode": "B34",
+    "area": "Castle Bromwich",
+    "air": 68,
+    "noise": 55,
+    "green": 70,
+    "score": 69,
+    "strengths": ["Historic parkland"],
+    "weaknesses": ["Airport traffic"]
+  },
+  {
+    "postcode": "B35",
+    "area": "Garretts Green",
+    "air": 55,
+    "noise": 65,
+    "green": 50,
+    "score": 54,
+    "strengths": ["Local green pockets"],
+    "weaknesses": ["Industrial proximity"]
+  },
+  {
+    "postcode": "B36",
+    "area": "Castle Vale",
+    "air": 60,
+    "noise": 58,
+    "green": 62,
+    "score": 60,
+    "strengths": ["Urban regeneration"],
+    "weaknesses": ["Traffic links"]
+  },
+  {
+    "postcode": "B37",
+    "area": "Chelmsley Wood",
+    "air": 58,
+    "noise": 60,
+    "green": 60,
+    "score": 59,
+    "strengths": ["Residential estates"],
+    "weaknesses": ["Main road exposure"]
+  },
+  {
+    "postcode": "B38",
+    "area": "Kings Norton",
+    "air": 70,
+    "noise": 52,
+    "green": 75,
+    "score": 72,
+    "strengths": ["Strong green infrastructure"],
+    "weaknesses": ["Commuter traffic"]
+  },
+
+  {
+    "postcode": "B40",
+    "area": "Airport / NEC",
+    "air": 50,
+    "noise": 85,
+    "green": 40,
+    "score": 45,
+    "strengths": ["Economic hub"],
+    "weaknesses": ["Extreme noise", "Air pollution"]
+  },
+  {
+    "postcode": "B42",
+    "area": "Great Barr South",
+    "air": 65,
+    "noise": 55,
+    "green": 65,
+    "score": 65,
+    "strengths": ["Residential green"],
+    "weaknesses": ["Ring road proximity"]
+  },
+  {
+    "postcode": "B43",
+    "area": "Pheasey",
+    "air": 68,
+    "noise": 50,
+    "green": 70,
+    "score": 69,
+    "strengths": ["Suburban calm"],
+    "weaknesses": ["Limited transit"]
+  },
+  {
+    "postcode": "B44",
+    "area": "Kingstanding",
+    "air": 62,
+    "noise": 58,
+    "green": 60,
+    "score": 60,
+    "strengths": ["Park access"],
+    "weaknesses": ["Traffic exposure"]
+  },
+  {
+    "postcode": "B45",
+    "area": "Rednal",
+    "air": 75,
+    "noise": 45,
+    "green": 82,
+    "score": 78,
+    "strengths": ["Lickey Hills access"],
+    "weaknesses": ["Long commute"]
+  },
+
+  {
+    "postcode": "B72",
+    "area": "Sutton Coldfield East",
+    "air": 82,
+    "noise": 40,
+    "green": 88,
+    "score": 85,
+    "strengths": ["Affluent greenery"],
+    "weaknesses": ["Car dependency"]
+  },
+  {
+    "postcode": "B73",
+    "area": "Sutton Coldfield North",
+    "air": 80,
+    "noise": 42,
+    "green": 85,
+    "score": 83,
+    "strengths": ["Low density green"],
+    "weaknesses": ["Transport reliance"]
+  },
+  {
+    "postcode": "B74",
+    "area": "Four Oaks",
+    "air": 85,
+    "noise": 38,
+    "green": 90,
+    "score": 88,
+    "strengths": ["Premium green access"],
+    "weaknesses": ["High property cost"]
+  },
+  {
+    "postcode": "B75",
+    "area": "Boldmere",
+    "air": 78,
+    "noise": 45,
+    "green": 80,
+    "score": 80,
+    "strengths": ["Leafy suburbs"],
+    "weaknesses": ["Commuter traffic"]
+  },
+  {
+    "postcode": "B76",
+    "area": "Minworth",
+    "air": 60,
+    "noise": 65,
+    "green": 55,
+    "score": 58,
+    "strengths": ["Canal zones"],
+    "weaknesses": ["Industrial links"]
+  },
+
+  {
+    "postcode": "B77",
+    "area": "Tamworth South",
+    "air": 65,
+    "noise": 55,
+    "green": 65,
+    "score": 65,
+    "strengths": ["Balanced environment"],
+    "weaknesses": ["Commuter dependence"]
+  },
+  {
+    "postcode": "B78",
+    "area": "Drayton Bassett",
+    "air": 70,
+    "noise": 48,
+    "green": 75,
+    "score": 72,
+    "strengths": ["Rural green buffer"],
+    "weaknesses": ["Car reliance"]
+  },
+  {
+    "postcode": "B79",
+    "area": "Tamworth West",
+    "air": 62,
+    "noise": 58,
+    "green": 60,
+    "score": 60,
+    "strengths": ["Residential stability"],
+    "weaknesses": ["Traffic routes"]
+  }
+]

@@ -1,0 +1,409 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B1" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.905, 52.48],
+            [-1.89, 52.48],
+            [-1.89, 52.47],
+            [-1.905, 52.47],
+            [-1.905, 52.48]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B2" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.89, 52.48],
+            [-1.875, 52.48],
+            [-1.875, 52.47],
+            [-1.89, 52.47],
+            [-1.89, 52.48]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B4" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.905, 52.49],
+            [-1.885, 52.49],
+            [-1.885, 52.48],
+            [-1.905, 52.48],
+            [-1.905, 52.49]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B5" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.89, 52.465],
+            [-1.87, 52.465],
+            [-1.87, 52.45],
+            [-1.89, 52.45],
+            [-1.89, 52.465]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B6" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.905, 52.5],
+            [-1.88, 52.5],
+            [-1.88, 52.485],
+            [-1.905, 52.485],
+            [-1.905, 52.5]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B8" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.86, 52.495],
+            [-1.835, 52.495],
+            [-1.835, 52.475],
+            [-1.86, 52.475],
+            [-1.86, 52.495]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B9" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.85, 52.49],
+            [-1.825, 52.49],
+            [-1.825, 52.47],
+            [-1.85, 52.47],
+            [-1.85, 52.49]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B10" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.83, 52.49],
+            [-1.805, 52.49],
+            [-1.805, 52.47],
+            [-1.83, 52.47],
+            [-1.83, 52.49]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B11" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.865, 52.455],
+            [-1.84, 52.455],
+            [-1.84, 52.435],
+            [-1.865, 52.435],
+            [-1.865, 52.455]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B12" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.89, 52.45],
+            [-1.865, 52.45],
+            [-1.865, 52.43],
+            [-1.89, 52.43],
+            [-1.89, 52.45]
+          ]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B13" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.9, 52.445],
+            [-1.875, 52.445],
+            [-1.875, 52.425],
+            [-1.9, 52.425],
+            [-1.9, 52.445]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B14" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.91, 52.435],
+            [-1.885, 52.435],
+            [-1.885, 52.415],
+            [-1.91, 52.415],
+            [-1.91, 52.435]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B15" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.935, 52.47],
+            [-1.915, 52.47],
+            [-1.915, 52.455],
+            [-1.935, 52.455],
+            [-1.935, 52.47]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B17" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.95, 52.485],
+            [-1.925, 52.485],
+            [-1.925, 52.465],
+            [-1.95, 52.465],
+            [-1.95, 52.485]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B18" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.925, 52.495],
+            [-1.9, 52.495],
+            [-1.9, 52.475],
+            [-1.925, 52.475],
+            [-1.925, 52.495]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B20" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.965, 52.52],
+            [-1.935, 52.52],
+            [-1.935, 52.5],
+            [-1.965, 52.5],
+            [-1.965, 52.52]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B21" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.945, 52.505],
+            [-1.92, 52.505],
+            [-1.92, 52.485],
+            [-1.945, 52.485],
+            [-1.945, 52.505]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B23" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.82, 52.54],
+            [-1.78, 52.54],
+            [-1.78, 52.51],
+            [-1.82, 52.51],
+            [-1.82, 52.54]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B25" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.79, 52.455],
+            [-1.76, 52.455],
+            [-1.76, 52.435],
+            [-1.79, 52.435],
+            [-1.79, 52.455]
+          ]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B27" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.825, 52.44],
+            [-1.8, 52.44],
+            [-1.8, 52.42],
+            [-1.825, 52.42],
+            [-1.825, 52.44]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B29" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.96, 52.45],
+            [-1.93, 52.45],
+            [-1.93, 52.425],
+            [-1.96, 52.425],
+            [-1.96, 52.45]
+          ]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B30" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.96, 52.42],
+            [-1.93, 52.42],
+            [-1.93, 52.395],
+            [-1.96, 52.395],
+            [-1.96, 52.42]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B31" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.98, 52.405],
+            [-1.95, 52.405],
+            [-1.95, 52.38],
+            [-1.98, 52.38],
+            [-1.98, 52.405]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B32" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-2.0, 52.465],
+            [-1.97, 52.465],
+            [-1.97, 52.44],
+            [-2.0, 52.44],
+            [-2.0, 52.465]
+          ]
+        ]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": { "postcode": "B33" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-1.79, 52.5],
+            [-1.76, 52.5],
+            [-1.76, 52.47],
+            [-1.79, 52.47],
+            [-1.79, 52.5]
+          ]
+        ]
+      }
+    }
+  ]
+}
