@@ -1,4 +1,6 @@
-# Birmingham Environmental Health Index
+# NSI - Neighbourhood Sustainability Index
+
+## Birmingham Environmental Health Index
 
 A data-driven environmental health platform that converts **air pollution**, **noise exposure**, and **greenspace access** into a unified **0–100 environmental health score** for every Birmingham postcode district (B1, B2, …).
 
