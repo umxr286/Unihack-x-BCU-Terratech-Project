@@ -1,0 +1,1872 @@
+[
+  {
+    "district": "B1",
+    "postcode_count": 740,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 740
+    },
+    "score_overall": 74.2,
+    "score_band": "Good environmental health",
+    "components": {
+      "air": {
+        "score": 81.1,
+        "band": "Very good environmental health",
+        "no2_ug_m3": 19.740982,
+        "pm10_ug_m3": 15.144563999999999,
+        "pm25_ug_m3": 8.6117622
+      },
+      "noise": {
+        "score": 88.7,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 48.94,
+        "mean_lnight_db": 47.3
+      },
+      "greenspace": {
+        "score": 50.4,
+        "band": "Poor access to greenspace",
+        "total_greenspace_m2": 117825.0057000015,
+        "mean_distance_m": 223.3462871554092,
+        "p75_distance_m": 317.50488153011736,
+        "per_postcode_m2": 159.2229806756777
+      }
+    }
+  },
+  {
+    "district": "B10",
+    "postcode_count": 457,
+    "confidence": {
+      "level": "medium",
+      "weight": 0.7,
+      "postcode_count": 457
+    },
+    "score_overall": 82.3,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 85.4,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 16.21749,
+        "pm10_ug_m3": 14.051542000000001,
+        "pm25_ug_m3": 8.3499538
+      },
+      "noise": {
+        "score": 95.1,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 46.71,
+        "mean_lnight_db": 45.84
+      },
+      "greenspace": {
+        "score": 65.4,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": 506073.5051999692,
+        "mean_distance_m": 169.7373828583233,
+        "p75_distance_m": 232.10196573922153,
+        "per_postcode_m2": 1107.3818494528866
+      }
+    }
+  },
+  {
+    "district": "B11",
+    "postcode_count": 1033,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 1033
+    },
+    "score_overall": 79.8,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 86.9,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 15.082643333333333,
+        "pm10_ug_m3": 13.670447999999999,
+        "pm25_ug_m3": 8.199659266666666
+      },
+      "noise": {
+        "score": 95.9,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 46.42,
+        "mean_lnight_db": 45.66
+      },
+      "greenspace": {
+        "score": 54.2,
+        "band": "Poor access to greenspace",
+        "total_greenspace_m2": 317485.2620499962,
+        "mean_distance_m": 224.71606045892102,
+        "p75_distance_m": 259.8599701762624,
+        "per_postcode_m2": 307.342944869309
+      }
+    }
+  },
+  {
+    "district": "B12",
+    "postcode_count": 765,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 765
+    },
+    "score_overall": 84.2,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 86.2,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 15.910949090909092,
+        "pm10_ug_m3": 13.784752727272728,
+        "pm25_ug_m3": 8.144797363636364
+      },
+      "noise": {
+        "score": 95.9,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 46.45,
+        "mean_lnight_db": 45.61
+      },
+      "greenspace": {
+        "score": 69.9,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": 1269397.3053000134,
+        "mean_distance_m": 163.47539754946806,
+        "p75_distance_m": 203.47941542085923,
+        "per_postcode_m2": 1659.3428827451155
+      }
+    }
+  },
+  {
+    "district": "B13",
+    "postcode_count": 1129,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 1129
+    },
+    "score_overall": 86.1,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 90.6,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 12.642578666666667,
+        "pm10_ug_m3": 12.644073333333333,
+        "pm25_ug_m3": 7.716098866666667
+      },
+      "noise": {
+        "score": 90.6,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 48.29,
+        "mean_lnight_db": 46.38
+      },
+      "greenspace": {
+        "score": 75.7,
+        "band": "Good access to greenspace",
+        "total_greenspace_m2": 3004035.1602500225,
+        "mean_distance_m": 147.51197760672665,
+        "p75_distance_m": 226.09311643655087,
+        "per_postcode_m2": 2660.7928788751306
+      }
+    }
+  },
+  {
+    "district": "B14",
+    "postcode_count": 1032,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 1032
+    },
+    "score_overall": 88.1,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 91.6,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 11.929735882352942,
+        "pm10_ug_m3": 12.414758823529413,
+        "pm25_ug_m3": 7.598872882352941
+      },
+      "noise": {
+        "score": 95.4,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 46.63,
+        "mean_lnight_db": 45.68
+      },
+      "greenspace": {
+        "score": 76.2,
+        "band": "Good access to greenspace",
+        "total_greenspace_m2": 4519023.077099906,
+        "mean_distance_m": 186.97393858126946,
+        "p75_distance_m": 265.2234678150072,
+        "per_postcode_m2": 4378.898330523165
+      }
+    }
+  },
+  {
+    "district": "B15",
+    "postcode_count": 854,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 854
+    },
+    "score_overall": 84.5,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 87.3,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 15.391819285714286,
+        "pm10_ug_m3": 13.259500714285716,
+        "pm25_ug_m3": 7.937639428571429
+      },
+      "noise": {
+        "score": 96.4,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 46.27,
+        "mean_lnight_db": 45.47
+      },
+      "greenspace": {
+        "score": 68.8,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": 1669759.9575500516,
+        "mean_distance_m": 198.39535869114354,
+        "p75_distance_m": 284.71812912371126,
+        "per_postcode_m2": 1955.2224327283977
+      }
+    }
+  },
+  {
+    "district": "B16",
+    "postcode_count": 1174,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 1174
+    },
+    "score_overall": 81.6,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 86.7,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 15.399021999999999,
+        "pm10_ug_m3": 13.604655,
+        "pm25_ug_m3": 8.164509800000001
+      },
+      "noise": {
+        "score": 96.3,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 46.3,
+        "mean_lnight_db": 45.6
+      },
+      "greenspace": {
+        "score": 60.0,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": 245296.85485000498,
+        "mean_distance_m": 138.4169798044578,
+        "p75_distance_m": 152.46330879526494,
+        "per_postcode_m2": 208.94110293867544
+      }
+    }
+  },
+  {
+    "district": "B17",
+    "postcode_count": 797,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 797
+    },
+    "score_overall": 85.1,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 90.3,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 12.617823636363637,
+        "pm10_ug_m3": 12.90157,
+        "pm25_ug_m3": 7.835326454545455
+      },
+      "noise": {
+        "score": 95.8,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 46.46,
+        "mean_lnight_db": 45.66
+      },
+      "greenspace": {
+        "score": 67.5,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": 1511820.9952500048,
+        "mean_distance_m": 206.15679440108502,
+        "p75_distance_m": 292.4349435344651,
+        "per_postcode_m2": 1896.889579987459
+      }
+    }
+  },
+  {
+    "district": "B18",
+    "postcode_count": 944,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 944
+    },
+    "score_overall": 80.2,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 84.8,
+        "band": "Very good environmental health",
+        "no2_ug_m3": 16.543837777777778,
+        "pm10_ug_m3": 14.263413333333334,
+        "pm25_ug_m3": 8.451296666666668
+      },
+      "noise": {
+        "score": 85.7,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 50.0,
+        "mean_lnight_db": 47.52
+      },
+      "greenspace": {
+        "score": 68.5,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": 832049.6712500157,
+        "mean_distance_m": 102.53271345549126,
+        "p75_distance_m": 140.41935479130058,
+        "per_postcode_m2": 881.4085500529827
+      }
+    }
+  },
+  {
+    "district": "B19",
+    "postcode_count": 686,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 686
+    },
+    "score_overall": 78.6,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 82.6,
+        "band": "Very good environmental health",
+        "no2_ug_m3": 18.290984444444447,
+        "pm10_ug_m3": 15.046678888888888,
+        "pm25_ug_m3": 8.642167555555556
+      },
+      "noise": {
+        "score": 91.7,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 47.9,
+        "mean_lnight_db": 46.16
+      },
+      "greenspace": {
+        "score": 60.1,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": 220252.99245000095,
+        "mean_distance_m": 144.46768540222902,
+        "p75_distance_m": 205.7189340443796,
+        "per_postcode_m2": 321.068502113704
+      }
+    }
+  },
+  {
+    "district": "B2",
+    "postcode_count": 860,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 860
+    },
+    "score_overall": 73.7,
+    "score_band": "Good environmental health",
+    "components": {
+      "air": {
+        "score": 79.0,
+        "band": "Very good environmental health",
+        "no2_ug_m3": 21.416532500000002,
+        "pm10_ug_m3": 15.4626425,
+        "pm25_ug_m3": 8.682189000000001
+      },
+      "noise": {
+        "score": 86.8,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 49.64,
+        "mean_lnight_db": 48.22
+      },
+      "greenspace": {
+        "score": 53.5,
+        "band": "Poor access to greenspace",
+        "total_greenspace_m2": 13359.135199999826,
+        "mean_distance_m": 183.96583098068984,
+        "p75_distance_m": 224.99930460353386,
+        "per_postcode_m2": 15.533878139534682
+      }
+    }
+  },
+  {
+    "district": "B20",
+    "postcode_count": 755,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 755
+    },
+    "score_overall": 85.0,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 86.9,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 14.748101666666665,
+        "pm10_ug_m3": 14.066153333333332,
+        "pm25_ug_m3": 8.357571083333333
+      },
+      "noise": {
+        "score": 92.8,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 47.52,
+        "mean_lnight_db": 45.82
+      },
+      "greenspace": {
+        "score": 74.8,
+        "band": "Good access to greenspace",
+        "total_greenspace_m2": 3195964.905049963,
+        "mean_distance_m": 209.92464927146924,
+        "p75_distance_m": 264.5781203228721,
+        "per_postcode_m2": 4233.066099403924
+      }
+    }
+  },
+  {
+    "district": "B21",
+    "postcode_count": 771,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 771
+    },
+    "score_overall": 87.7,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 86.4,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 14.807486666666668,
+        "pm10_ug_m3": 14.151481666666667,
+        "pm25_ug_m3": 8.525075166666667
+      },
+      "noise": {
+        "score": 95.1,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 46.7,
+        "mean_lnight_db": 45.78
+      },
+      "greenspace": {
+        "score": 82.1,
+        "band": "Good access to greenspace",
+        "total_greenspace_m2": 7651704.2227499755,
+        "mean_distance_m": 197.72852473787208,
+        "p75_distance_m": 226.67977280737273,
+        "per_postcode_m2": 9924.38939396884
+      }
+    }
+  },
+  {
+    "district": "B22",
+    "postcode_count": 10,
+    "confidence": {
+      "level": "very_low",
+      "weight": 0.2,
+      "postcode_count": 10
+    },
+    "score_overall": 94.2,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 85.4,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 17.15512,
+        "pm10_ug_m3": 13.07757,
+        "pm25_ug_m3": 7.97411
+      },
+      "noise": {
+        "score": 100.0,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 45.0,
+        "mean_lnight_db": 45.0
+      },
+      "greenspace": {
+        "score": 100.0,
+        "band": "Excellent access to greenspace",
+        "total_greenspace_m2": null,
+        "mean_distance_m": 86.84359101280077,
+        "p75_distance_m": 86.84359101280077,
+        "per_postcode_m2": null
+      }
+    }
+  },
+  {
+    "district": "B23",
+    "postcode_count": 1265,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 1265
+    },
+    "score_overall": 80.4,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 86.0,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 15.328891333333333,
+        "pm10_ug_m3": 14.497586666666667,
+        "pm25_ug_m3": 8.449227666666667
+      },
+      "noise": {
+        "score": 86.5,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 49.71,
+        "mean_lnight_db": 47.03
+      },
+      "greenspace": {
+        "score": 66.8,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": 1851842.4205500144,
+        "mean_distance_m": 176.01251472603667,
+        "p75_distance_m": 212.25750516769114,
+        "per_postcode_m2": 1463.9070518181932
+      }
+    }
+  },
+  {
+    "district": "B24",
+    "postcode_count": 764,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 764
+    },
+    "score_overall": 79.3,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 84.2,
+        "band": "Very good environmental health",
+        "no2_ug_m3": 17.02542294117647,
+        "pm10_ug_m3": 14.924501176470589,
+        "pm25_ug_m3": 8.495517117647058
+      },
+      "noise": {
+        "score": 82.0,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 51.3,
+        "mean_lnight_db": 47.66
+      },
+      "greenspace": {
+        "score": 70.2,
+        "band": "Good access to greenspace",
+        "total_greenspace_m2": 1517268.5284500131,
+        "mean_distance_m": 213.65693240116136,
+        "p75_distance_m": 278.3568865053727,
+        "per_postcode_m2": 1985.9535712696506
+      }
+    }
+  },
+  {
+    "district": "B25",
+    "postcode_count": 556,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 556
+    },
+    "score_overall": 75.2,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 87.2,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 14.712887,
+        "pm10_ug_m3": 13.600125,
+        "pm25_ug_m3": 8.2270197
+      },
+      "noise": {
+        "score": 97.0,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 46.06,
+        "mean_lnight_db": 45.47
+      },
+      "greenspace": {
+        "score": 37.4,
+        "band": "Very poor access to greenspace",
+        "total_greenspace_m2": 496541.67009999504,
+        "mean_distance_m": 429.6692710492043,
+        "p75_distance_m": 720.2370196677899,
+        "per_postcode_m2": 893.060557733804
+      }
+    }
+  },
+  {
+    "district": "B26",
+    "postcode_count": 726,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 726
+    },
+    "score_overall": 86.4,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 88.4,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 13.898865833333332,
+        "pm10_ug_m3": 13.212011666666667,
+        "pm25_ug_m3": 8.071394
+      },
+      "noise": {
+        "score": 96.0,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 46.4,
+        "mean_lnight_db": 45.65
+      },
+      "greenspace": {
+        "score": 74.3,
+        "band": "Good access to greenspace",
+        "total_greenspace_m2": 6756848.746900019,
+        "mean_distance_m": 263.08956682227506,
+        "p75_distance_m": 339.6758449430293,
+        "per_postcode_m2": 9306.954196831983
+      }
+    }
+  },
+  {
+    "district": "B27",
+    "postcode_count": 524,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 524
+    },
+    "score_overall": 85.4,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 88.4,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 13.89733375,
+        "pm10_ug_m3": 13.21055125,
+        "pm25_ug_m3": 8.085309
+      },
+      "noise": {
+        "score": 96.4,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 46.25,
+        "mean_lnight_db": 45.53
+      },
+      "greenspace": {
+        "score": 70.4,
+        "band": "Good access to greenspace",
+        "total_greenspace_m2": 2149118.931949961,
+        "mean_distance_m": 261.4677303567288,
+        "p75_distance_m": 321.1092159970077,
+        "per_postcode_m2": 4101.372007538093
+      }
+    }
+  },
+  {
+    "district": "B28",
+    "postcode_count": 856,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 856
+    },
+    "score_overall": 88.1,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 90.9,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 12.2208775,
+        "pm10_ug_m3": 12.610535833333332,
+        "pm25_ug_m3": 7.756499916666667
+      },
+      "noise": {
+        "score": 97.4,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 45.91,
+        "mean_lnight_db": 45.32
+      },
+      "greenspace": {
+        "score": 75.0,
+        "band": "Good access to greenspace",
+        "total_greenspace_m2": 4343181.32105002,
+        "mean_distance_m": 231.62892207106532,
+        "p75_distance_m": 304.9474550422644,
+        "per_postcode_m2": 5073.809954497687
+      }
+    }
+  },
+  {
+    "district": "B29",
+    "postcode_count": 1118,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 1118
+    },
+    "score_overall": 85.8,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 91.0,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 12.482933888888889,
+        "pm10_ug_m3": 12.511963333333334,
+        "pm25_ug_m3": 7.588596333333332
+      },
+      "noise": {
+        "score": 97.2,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 46.0,
+        "mean_lnight_db": 45.42
+      },
+      "greenspace": {
+        "score": 67.6,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": 1714466.5045000103,
+        "mean_distance_m": 166.07089796103304,
+        "p75_distance_m": 218.86149225858688,
+        "per_postcode_m2": 1533.5120791592221
+      }
+    }
+  },
+  {
+    "district": "B3",
+    "postcode_count": 710,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 710
+    },
+    "score_overall": 75.3,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 81.2,
+        "band": "Very good environmental health",
+        "no2_ug_m3": 19.776586,
+        "pm10_ug_m3": 15.094401999999999,
+        "pm25_ug_m3": 8.5628104
+      },
+      "noise": {
+        "score": 87.5,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 49.36,
+        "mean_lnight_db": 47.64
+      },
+      "greenspace": {
+        "score": 55.2,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": 220088.9986500261,
+        "mean_distance_m": 203.8989784743563,
+        "p75_distance_m": 268.5615668706099,
+        "per_postcode_m2": 309.9845051408818
+      }
+    }
+  },
+  {
+    "district": "B30",
+    "postcode_count": 902,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 902
+    },
+    "score_overall": 86.2,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 90.9,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 12.541973888888888,
+        "pm10_ug_m3": 12.478680555555556,
+        "pm25_ug_m3": 7.6185955
+      },
+      "noise": {
+        "score": 96.9,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 46.09,
+        "mean_lnight_db": 45.46
+      },
+      "greenspace": {
+        "score": 69.2,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": 1767823.3148499988,
+        "mean_distance_m": 201.91120216095405,
+        "p75_distance_m": 292.9803954192047,
+        "per_postcode_m2": 1959.8928102549876
+      }
+    }
+  },
+  {
+    "district": "B31",
+    "postcode_count": 1496,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 1496
+    },
+    "score_overall": 85.3,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 93.9,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 10.341331826086956,
+        "pm10_ug_m3": 12.117046086956522,
+        "pm25_ug_m3": 7.316429217391304
+      },
+      "noise": {
+        "score": 98.3,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 45.6,
+        "mean_lnight_db": 45.25
+      },
+      "greenspace": {
+        "score": 61.0,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": 1406213.2314999832,
+        "mean_distance_m": 212.05358380331216,
+        "p75_distance_m": 295.0165897030079,
+        "per_postcode_m2": 939.9821066176358
+      }
+    }
+  },
+  {
+    "district": "B32",
+    "postcode_count": 1120,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 1120
+    },
+    "score_overall": 88.8,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 92.6,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 11.125217266666668,
+        "pm10_ug_m3": 12.650113333333334,
+        "pm25_ug_m3": 7.4972194666666665
+      },
+      "noise": {
+        "score": 97.0,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 46.03,
+        "mean_lnight_db": 45.37
+      },
+      "greenspace": {
+        "score": 75.4,
+        "band": "Good access to greenspace",
+        "total_greenspace_m2": 15895065.265249845,
+        "mean_distance_m": 252.69616481235997,
+        "p75_distance_m": 417.7376287814978,
+        "per_postcode_m2": 14192.02255825879
+      }
+    }
+  },
+  {
+    "district": "B33",
+    "postcode_count": 941,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 941
+    },
+    "score_overall": 87.3,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 88.8,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 13.681424615384616,
+        "pm10_ug_m3": 13.13096846153846,
+        "pm25_ug_m3": 7.988265384615384
+      },
+      "noise": {
+        "score": 97.4,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 45.91,
+        "mean_lnight_db": 45.48
+      },
+      "greenspace": {
+        "score": 75.3,
+        "band": "Good access to greenspace",
+        "total_greenspace_m2": 9626013.848599875,
+        "mean_distance_m": 244.52533523346136,
+        "p75_distance_m": 385.63147615310027,
+        "per_postcode_m2": 10229.557756216658
+      }
+    }
+  },
+  {
+    "district": "B34",
+    "postcode_count": 384,
+    "confidence": {
+      "level": "medium",
+      "weight": 0.7,
+      "postcode_count": 384
+    },
+    "score_overall": 89.3,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 88.2,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 14.101925,
+        "pm10_ug_m3": 13.54399,
+        "pm25_ug_m3": 8.0642795
+      },
+      "noise": {
+        "score": 97.2,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 45.99,
+        "mean_lnight_db": 45.04
+      },
+      "greenspace": {
+        "score": 82.9,
+        "band": "Good access to greenspace",
+        "total_greenspace_m2": 4164617.7637499943,
+        "mean_distance_m": 185.6427508069706,
+        "p75_distance_m": 255.93463985682286,
+        "per_postcode_m2": 10845.35875976561
+      }
+    }
+  },
+  {
+    "district": "B35",
+    "postcode_count": 455,
+    "confidence": {
+      "level": "medium",
+      "weight": 0.7,
+      "postcode_count": 455
+    },
+    "score_overall": 77.8,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 84.9,
+        "band": "Very good environmental health",
+        "no2_ug_m3": 16.865309999999997,
+        "pm10_ug_m3": 14.693746666666668,
+        "pm25_ug_m3": 8.28534
+      },
+      "noise": {
+        "score": 76.4,
+        "band": "Low noise exposure",
+        "mean_lden_db": 53.25,
+        "mean_lnight_db": 49.64
+      },
+      "greenspace": {
+        "score": 69.6,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": 853315.0006999947,
+        "mean_distance_m": 175.82963176029148,
+        "p75_distance_m": 220.64363870274565,
+        "per_postcode_m2": 1875.4175839560323
+      }
+    }
+  },
+  {
+    "district": "B36",
+    "postcode_count": 288,
+    "confidence": {
+      "level": "medium",
+      "weight": 0.7,
+      "postcode_count": 288
+    },
+    "score_overall": 78.9,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 84.8,
+        "band": "Very good environmental health",
+        "no2_ug_m3": 16.748495714285713,
+        "pm10_ug_m3": 14.897551428571429,
+        "pm25_ug_m3": 8.395891571428571
+      },
+      "noise": {
+        "score": 76.0,
+        "band": "Low noise exposure",
+        "mean_lden_db": 53.4,
+        "mean_lnight_db": 50.0
+      },
+      "greenspace": {
+        "score": 74.0,
+        "band": "Good access to greenspace",
+        "total_greenspace_m2": 1166058.65884988,
+        "mean_distance_m": 206.53177508975298,
+        "p75_distance_m": 247.1518015097474,
+        "per_postcode_m2": 4048.8147876731946
+      }
+    }
+  },
+  {
+    "district": "B37",
+    "postcode_count": 6,
+    "confidence": {
+      "level": "very_low",
+      "weight": 0.2,
+      "postcode_count": 6
+    },
+    "score_overall": 93.6,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 90.0,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 13.11309,
+        "pm10_ug_m3": 12.67407,
+        "pm25_ug_m3": 7.743083
+      },
+      "noise": {
+        "score": 100.0,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 45.0,
+        "mean_lnight_db": 45.0
+      },
+      "greenspace": {
+        "score": 92.1,
+        "band": "Excellent access to greenspace",
+        "total_greenspace_m2": 126847.05560000986,
+        "mean_distance_m": 121.40965874607639,
+        "p75_distance_m": 165.61121596132492,
+        "per_postcode_m2": 21141.175933334976
+      }
+    }
+  },
+  {
+    "district": "B38",
+    "postcode_count": 532,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 532
+    },
+    "score_overall": 89.0,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 92.0,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 11.777495,
+        "pm10_ug_m3": 12.28971,
+        "pm25_ug_m3": 7.496009375
+      },
+      "noise": {
+        "score": 97.9,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 45.72,
+        "mean_lnight_db": 45.25
+      },
+      "greenspace": {
+        "score": 76.0,
+        "band": "Good access to greenspace",
+        "total_greenspace_m2": 2425607.9381999588,
+        "mean_distance_m": 194.39783515664658,
+        "p75_distance_m": 283.7399657976365,
+        "per_postcode_m2": 4559.413417669095
+      }
+    }
+  },
+  {
+    "district": "B4",
+    "postcode_count": 482,
+    "confidence": {
+      "level": "medium",
+      "weight": 0.7,
+      "postcode_count": 482
+    },
+    "score_overall": 73.0,
+    "score_band": "Good environmental health",
+    "components": {
+      "air": {
+        "score": 81.8,
+        "band": "Very good environmental health",
+        "no2_ug_m3": 19.4974575,
+        "pm10_ug_m3": 14.97864625,
+        "pm25_ug_m3": 8.4763075
+      },
+      "noise": {
+        "score": 86.5,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 49.72,
+        "mean_lnight_db": 47.24
+      },
+      "greenspace": {
+        "score": 47.9,
+        "band": "Poor access to greenspace",
+        "total_greenspace_m2": 49155.5292999952,
+        "mean_distance_m": 244.81394091435325,
+        "p75_distance_m": 344.3820340269057,
+        "per_postcode_m2": 101.9824259336
+      }
+    }
+  },
+  {
+    "district": "B42",
+    "postcode_count": 789,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 789
+    },
+    "score_overall": 80.4,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 85.4,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 15.823193571428572,
+        "pm10_ug_m3": 15.035556428571429,
+        "pm25_ug_m3": 8.5118465
+      },
+      "noise": {
+        "score": 85.1,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 50.22,
+        "mean_lnight_db": 47.63
+      },
+      "greenspace": {
+        "score": 68.9,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": 1600295.5565000062,
+        "mean_distance_m": 250.83300993389716,
+        "p75_distance_m": 307.2132850317263,
+        "per_postcode_m2": 2028.2579930291588
+      }
+    }
+  },
+  {
+    "district": "B43",
+    "postcode_count": 63,
+    "confidence": {
+      "level": "low",
+      "weight": 0.4,
+      "postcode_count": 63
+    },
+    "score_overall": 85.6,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 86.0,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 15.328512,
+        "pm10_ug_m3": 14.937046,
+        "pm25_ug_m3": 8.473041599999998
+      },
+      "noise": {
+        "score": 85.4,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 50.12,
+        "mean_lnight_db": 47.04
+      },
+      "greenspace": {
+        "score": 85.3,
+        "band": "Excellent access to greenspace",
+        "total_greenspace_m2": 8143300.974299967,
+        "mean_distance_m": 282.97008504474655,
+        "p75_distance_m": 307.2132850317263,
+        "per_postcode_m2": 129258.74562380901
+      }
+    }
+  },
+  {
+    "district": "B44",
+    "postcode_count": 798,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 798
+    },
+    "score_overall": 79.8,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 87.0,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 14.545534166666668,
+        "pm10_ug_m3": 14.385725,
+        "pm25_ug_m3": 8.394031166666666
+      },
+      "noise": {
+        "score": 93.6,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 47.22,
+        "mean_lnight_db": 45.74
+      },
+      "greenspace": {
+        "score": 56.5,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": 576822.1368500029,
+        "mean_distance_m": 244.78086740860417,
+        "p75_distance_m": 325.9505980973097,
+        "per_postcode_m2": 722.8347579573972
+      }
+    }
+  },
+  {
+    "district": "B45",
+    "postcode_count": 568,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 568
+    },
+    "score_overall": 92.8,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 94.8,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 9.222207571428571,
+        "pm10_ug_m3": 11.970817142857143,
+        "pm25_ug_m3": 7.074223000000001
+      },
+      "noise": {
+        "score": 97.8,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 45.77,
+        "mean_lnight_db": 45.24
+      },
+      "greenspace": {
+        "score": 85.2,
+        "band": "Excellent access to greenspace",
+        "total_greenspace_m2": 10035960.03965008,
+        "mean_distance_m": 205.00015951306054,
+        "p75_distance_m": 244.09246216137745,
+        "per_postcode_m2": 17668.943731778312
+      }
+    }
+  },
+  {
+    "district": "B47",
+    "postcode_count": 30,
+    "confidence": {
+      "level": "low",
+      "weight": 0.4,
+      "postcode_count": 30
+    },
+    "score_overall": 85.8,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 91.9,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 11.54801,
+        "pm10_ug_m3": 12.45056,
+        "pm25_ug_m3": 7.611114499999999
+      },
+      "noise": {
+        "score": 75.8,
+        "band": "Low noise exposure",
+        "mean_lden_db": 53.46,
+        "mean_lnight_db": 48.62
+      },
+      "greenspace": {
+        "score": 87.5,
+        "band": "Excellent access to greenspace",
+        "total_greenspace_m2": 178489.49585000522,
+        "mean_distance_m": 60.77691062447976,
+        "p75_distance_m": 49.503480685712496,
+        "per_postcode_m2": 5949.6498616668405
+      }
+    }
+  },
+  {
+    "district": "B48",
+    "postcode_count": 19,
+    "confidence": {
+      "level": "very_low",
+      "weight": 0.2,
+      "postcode_count": 19
+    },
+    "score_overall": null,
+    "score_band": "Poor environmental health",
+    "components": {
+      "air": {
+        "score": null,
+        "band": "Unknown",
+        "no2_ug_m3": null,
+        "pm10_ug_m3": null,
+        "pm25_ug_m3": null
+      },
+      "noise": {
+        "score": 100.0,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 45.0,
+        "mean_lnight_db": 45.0
+      },
+      "greenspace": {
+        "score": 87.4,
+        "band": "Excellent access to greenspace",
+        "total_greenspace_m2": null,
+        "mean_distance_m": 213.12431348866306,
+        "p75_distance_m": 213.12431348866306,
+        "per_postcode_m2": null
+      }
+    }
+  },
+  {
+    "district": "B5",
+    "postcode_count": 912,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 912
+    },
+    "score_overall": 75.2,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 84.1,
+        "band": "Very good environmental health",
+        "no2_ug_m3": 17.710255833333335,
+        "pm10_ug_m3": 14.323678333333334,
+        "pm25_ug_m3": 8.287383499999999
+      },
+      "noise": {
+        "score": 89.8,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 48.57,
+        "mean_lnight_db": 46.76
+      },
+      "greenspace": {
+        "score": 48.8,
+        "band": "Poor access to greenspace",
+        "total_greenspace_m2": 359888.89744999993,
+        "mean_distance_m": 288.9980393037666,
+        "p75_distance_m": 411.92231219401594,
+        "per_postcode_m2": 394.61501913377185
+      }
+    }
+  },
+  {
+    "district": "B6",
+    "postcode_count": 876,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 876
+    },
+    "score_overall": 75.8,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 81.6,
+        "band": "Very good environmental health",
+        "no2_ug_m3": 18.5172325,
+        "pm10_ug_m3": 15.61007875,
+        "pm25_ug_m3": 8.738940375
+      },
+      "noise": {
+        "score": 75.9,
+        "band": "Low noise exposure",
+        "mean_lden_db": 53.45,
+        "mean_lnight_db": 49.77
+      },
+      "greenspace": {
+        "score": 67.8,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": 1658274.686249985,
+        "mean_distance_m": 203.8564992871688,
+        "p75_distance_m": 266.49871209241803,
+        "per_postcode_m2": 1893.0076327054621
+      }
+    }
+  },
+  {
+    "district": "B62",
+    "postcode_count": 12,
+    "confidence": {
+      "level": "very_low",
+      "weight": 0.2,
+      "postcode_count": 12
+    },
+    "score_overall": 86.7,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 92.6,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 11.275400000000001,
+        "pm10_ug_m3": 13.331859999999999,
+        "pm25_ug_m3": 7.4447779999999995
+      },
+      "noise": {
+        "score": 78.9,
+        "band": "Low noise exposure",
+        "mean_lden_db": 52.4,
+        "mean_lnight_db": 48.33
+      },
+      "greenspace": {
+        "score": 86.6,
+        "band": "Excellent access to greenspace",
+        "total_greenspace_m2": 1000101.9744999867,
+        "mean_distance_m": 203.39747276894454,
+        "p75_distance_m": 287.84438626467704,
+        "per_postcode_m2": 83341.83120833222
+      }
+    }
+  },
+  {
+    "district": "B66",
+    "postcode_count": 10,
+    "confidence": {
+      "level": "very_low",
+      "weight": 0.2,
+      "postcode_count": 10
+    },
+    "score_overall": 88.8,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 85.7,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 15.17002,
+        "pm10_ug_m3": 14.201540000000001,
+        "pm25_ug_m3": 8.6553965
+      },
+      "noise": {
+        "score": 97.5,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 45.88,
+        "mean_lnight_db": 45.38
+      },
+      "greenspace": {
+        "score": 84.2,
+        "band": "Good access to greenspace",
+        "total_greenspace_m2": 498252.57514999487,
+        "mean_distance_m": 243.95527226144722,
+        "p75_distance_m": 300.3113773117358,
+        "per_postcode_m2": 49825.25751499949
+      }
+    }
+  },
+  {
+    "district": "B67",
+    "postcode_count": 2,
+    "confidence": {
+      "level": "very_low",
+      "weight": 0.2,
+      "postcode_count": 2
+    },
+    "score_overall": null,
+    "score_band": "Poor environmental health",
+    "components": {
+      "air": {
+        "score": null,
+        "band": "Unknown",
+        "no2_ug_m3": null,
+        "pm10_ug_m3": null,
+        "pm25_ug_m3": null
+      },
+      "noise": {
+        "score": 60.7,
+        "band": "Low noise exposure",
+        "mean_lden_db": 58.75,
+        "mean_lnight_db": 53.75
+      },
+      "greenspace": {
+        "score": 96.0,
+        "band": "Excellent access to greenspace",
+        "total_greenspace_m2": 730540.8667999916,
+        "mean_distance_m": 160.1931212630578,
+        "p75_distance_m": 160.1931212630578,
+        "per_postcode_m2": 365270.4333999958
+      }
+    }
+  },
+  {
+    "district": "B68",
+    "postcode_count": 1,
+    "confidence": {
+      "level": "very_low",
+      "weight": 0.2,
+      "postcode_count": 1
+    },
+    "score_overall": null,
+    "score_band": "Poor environmental health",
+    "components": {
+      "air": {
+        "score": null,
+        "band": "Unknown",
+        "no2_ug_m3": null,
+        "pm10_ug_m3": null,
+        "pm25_ug_m3": null
+      },
+      "noise": {
+        "score": 53.6,
+        "band": "Moderate noise exposure",
+        "mean_lden_db": 61.25,
+        "mean_lnight_db": 56.25
+      },
+      "greenspace": {
+        "score": 60.2,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": null,
+        "mean_distance_m": 458.56960485839835,
+        "p75_distance_m": 458.56960485839835,
+        "per_postcode_m2": null
+      }
+    }
+  },
+  {
+    "district": "B7",
+    "postcode_count": 441,
+    "confidence": {
+      "level": "medium",
+      "weight": 0.7,
+      "postcode_count": 441
+    },
+    "score_overall": 73.5,
+    "score_band": "Good environmental health",
+    "components": {
+      "air": {
+        "score": 80.0,
+        "band": "Very good environmental health",
+        "no2_ug_m3": 19.72221,
+        "pm10_ug_m3": 15.706656363636364,
+        "pm25_ug_m3": 8.875015
+      },
+      "noise": {
+        "score": 79.5,
+        "band": "Low noise exposure",
+        "mean_lden_db": 52.17,
+        "mean_lnight_db": 48.14
+      },
+      "greenspace": {
+        "score": 58.7,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": 194026.1060500111,
+        "mean_distance_m": 178.57339228117658,
+        "p75_distance_m": 255.62995286153634,
+        "per_postcode_m2": 439.96849444446957
+      }
+    }
+  },
+  {
+    "district": "B72",
+    "postcode_count": 376,
+    "confidence": {
+      "level": "medium",
+      "weight": 0.7,
+      "postcode_count": 376
+    },
+    "score_overall": 82.1,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 90.4,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 12.845134999999999,
+        "pm10_ug_m3": 12.764923,
+        "pm25_ug_m3": 7.7080174
+      },
+      "noise": {
+        "score": 93.4,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 47.29,
+        "mean_lnight_db": 45.98
+      },
+      "greenspace": {
+        "score": 59.6,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": 607879.1469499945,
+        "mean_distance_m": 267.64676070618646,
+        "p75_distance_m": 370.4489344025662,
+        "per_postcode_m2": 1616.69985890956
+      }
+    }
+  },
+  {
+    "district": "B73",
+    "postcode_count": 1021,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 1021
+    },
+    "score_overall": 89.3,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 90.3,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 12.743423846153847,
+        "pm10_ug_m3": 12.888976923076923,
+        "pm25_ug_m3": 7.777661384615385
+      },
+      "noise": {
+        "score": 98.2,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 45.62,
+        "mean_lnight_db": 45.24
+      },
+      "greenspace": {
+        "score": 79.1,
+        "band": "Good access to greenspace",
+        "total_greenspace_m2": 19043562.42815005,
+        "mean_distance_m": 272.5595936171794,
+        "p75_distance_m": 370.4489344025662,
+        "per_postcode_m2": 18651.873093192997
+      }
+    }
+  },
+  {
+    "district": "B74",
+    "postcode_count": 579,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 579
+    },
+    "score_overall": 91.3,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 93.6,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 10.860103857142857,
+        "pm10_ug_m3": 11.926198571428571,
+        "pm25_ug_m3": 7.230688142857143
+      },
+      "noise": {
+        "score": 96.5,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 46.22,
+        "mean_lnight_db": 45.43
+      },
+      "greenspace": {
+        "score": 83.1,
+        "band": "Good access to greenspace",
+        "total_greenspace_m2": 143648315.03489992,
+        "mean_distance_m": 298.59698163514105,
+        "p75_distance_m": 370.4489344025662,
+        "per_postcode_m2": 248097.26258186516
+      }
+    }
+  },
+  {
+    "district": "B75",
+    "postcode_count": 811,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 811
+    },
+    "score_overall": 89.7,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 94.0,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 10.614744,
+        "pm10_ug_m3": 12.18763909090909,
+        "pm25_ug_m3": 7.137468136363637
+      },
+      "noise": {
+        "score": 98.5,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 45.51,
+        "mean_lnight_db": 45.2
+      },
+      "greenspace": {
+        "score": 75.2,
+        "band": "Good access to greenspace",
+        "total_greenspace_m2": 12391887.088799696,
+        "mean_distance_m": 316.92744259044673,
+        "p75_distance_m": 398.4561529202185,
+        "per_postcode_m2": 15279.762131688898
+      }
+    }
+  },
+  {
+    "district": "B76",
+    "postcode_count": 961,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 961
+    },
+    "score_overall": 89.1,
+    "score_band": "Excellent environmental health",
+    "components": {
+      "air": {
+        "score": 91.7,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 12.13113761904762,
+        "pm10_ug_m3": 12.866549523809525,
+        "pm25_ug_m3": 7.468506142857143
+      },
+      "noise": {
+        "score": 97.5,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 45.89,
+        "mean_lnight_db": 45.33
+      },
+      "greenspace": {
+        "score": 77.1,
+        "band": "Good access to greenspace",
+        "total_greenspace_m2": 9079466.605900066,
+        "mean_distance_m": 221.8442716315877,
+        "p75_distance_m": 316.48212034803,
+        "per_postcode_m2": 9447.93611436011
+      }
+    }
+  },
+  {
+    "district": "B8",
+    "postcode_count": 779,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 779
+    },
+    "score_overall": 79.4,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 84.3,
+        "band": "Very good environmental health",
+        "no2_ug_m3": 16.747477142857143,
+        "pm10_ug_m3": 14.65139142857143,
+        "pm25_ug_m3": 8.595830214285714
+      },
+      "noise": {
+        "score": 93.4,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 47.3,
+        "mean_lnight_db": 45.81
+      },
+      "greenspace": {
+        "score": 58.8,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": 499465.77520000865,
+        "mean_distance_m": 198.6703885426103,
+        "p75_distance_m": 279.5218377548789,
+        "per_postcode_m2": 641.162740949947
+      }
+    }
+  },
+  {
+    "district": "B9",
+    "postcode_count": 809,
+    "confidence": {
+      "level": "high",
+      "weight": 1.0,
+      "postcode_count": 809
+    },
+    "score_overall": 81.9,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 85.2,
+        "band": "Excellent environmental health",
+        "no2_ug_m3": 16.457097272727275,
+        "pm10_ug_m3": 14.068264545454547,
+        "pm25_ug_m3": 8.343125272727272
+      },
+      "noise": {
+        "score": 97.8,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 45.77,
+        "mean_lnight_db": 45.34
+      },
+      "greenspace": {
+        "score": 61.7,
+        "band": "Moderate access to greenspace",
+        "total_greenspace_m2": 461414.68939997756,
+        "mean_distance_m": 152.9755045884585,
+        "p75_distance_m": 217.59480002979157,
+        "per_postcode_m2": 570.3519028429884
+      }
+    }
+  },
+  {
+    "district": "B92",
+    "postcode_count": 2,
+    "confidence": {
+      "level": "very_low",
+      "weight": 0.2,
+      "postcode_count": 2
+    },
+    "score_overall": null,
+    "score_band": "Poor environmental health",
+    "components": {
+      "air": {
+        "score": null,
+        "band": "Unknown",
+        "no2_ug_m3": null,
+        "pm10_ug_m3": null,
+        "pm25_ug_m3": null
+      },
+      "noise": {
+        "score": 91.1,
+        "band": "Very low noise exposure",
+        "mean_lden_db": 48.12,
+        "mean_lnight_db": 45.0
+      },
+      "greenspace": {
+        "score": 88.0,
+        "band": "Excellent access to greenspace",
+        "total_greenspace_m2": 185933.5314000032,
+        "mean_distance_m": 208.30872459687336,
+        "p75_distance_m": 267.75836874386715,
+        "per_postcode_m2": 92966.7657000016
+      }
+    }
+  },
+  {
+    "district": "B99",
+    "postcode_count": 59,
+    "confidence": {
+      "level": "low",
+      "weight": 0.4,
+      "postcode_count": 59
+    },
+    "score_overall": 81.3,
+    "score_band": "Very good environmental health",
+    "components": {
+      "air": {
+        "score": 77.4,
+        "band": "Very good environmental health",
+        "no2_ug_m3": 20.95047,
+        "pm10_ug_m3": 16.82277,
+        "pm25_ug_m3": 9.092971
+      },
+      "noise": {
+        "score": 74.8,
+        "band": "Low noise exposure",
+        "mean_lden_db": 53.83,
+        "mean_lnight_db": 51.25
+      },
+      "greenspace": {
+        "score": 93.0,
+        "band": "Excellent access to greenspace",
+        "total_greenspace_m2": null,
+        "mean_distance_m": 165.10004608168234,
+        "p75_distance_m": 161.40943776617365,
+        "per_postcode_m2": null
+      }
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "station": "Status.12",
+    "year": 2025,
+    "annual_mean": 3.0
+  },
+  {
+    "station": "Status.4",
+    "year": 2024,
+    "annual_mean": 3.0
+  },
+  {
+    "station": "Status.7",
+    "year": 2023,
+    "annual_mean": 3.0
+  },
+  {
+    "station": "Status.7",
+    "year": 2024,
+    "annual_mean": 3.0
+  },
+  {
+    "station": "Status.7",
+    "year": 2025,
+    "annual_mean": 3.0
+  },
+  {
+    "station": "Status.8",
+    "year": 2025,
+    "annual_mean": 3.0
+  },
+  {
+    "station": "Status.9",
+    "year": 2025,
+    "annual_mean": 3.0
+  }
+]

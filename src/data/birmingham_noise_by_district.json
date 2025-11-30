@@ -1,0 +1,497 @@
+[
+  {
+    "district": "B1",
+    "postcode_count": 740,
+    "noise_mean_lden_db": 48.94,
+    "noise_mean_lnight_db": 47.3,
+    "noise_risk": 0.1127,
+    "noise_score": 88.7,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B10",
+    "postcode_count": 457,
+    "noise_mean_lden_db": 46.71,
+    "noise_mean_lnight_db": 45.84,
+    "noise_risk": 0.0488,
+    "noise_score": 95.1,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B11",
+    "postcode_count": 1033,
+    "noise_mean_lden_db": 46.42,
+    "noise_mean_lnight_db": 45.66,
+    "noise_risk": 0.0406,
+    "noise_score": 95.9,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B12",
+    "postcode_count": 765,
+    "noise_mean_lden_db": 46.45,
+    "noise_mean_lnight_db": 45.61,
+    "noise_risk": 0.0415,
+    "noise_score": 95.9,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B13",
+    "postcode_count": 1129,
+    "noise_mean_lden_db": 48.29,
+    "noise_mean_lnight_db": 46.38,
+    "noise_risk": 0.0939,
+    "noise_score": 90.6,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B14",
+    "postcode_count": 1032,
+    "noise_mean_lden_db": 46.63,
+    "noise_mean_lnight_db": 45.68,
+    "noise_risk": 0.0465,
+    "noise_score": 95.4,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B15",
+    "postcode_count": 854,
+    "noise_mean_lden_db": 46.27,
+    "noise_mean_lnight_db": 45.47,
+    "noise_risk": 0.0362,
+    "noise_score": 96.4,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B16",
+    "postcode_count": 1174,
+    "noise_mean_lden_db": 46.3,
+    "noise_mean_lnight_db": 45.6,
+    "noise_risk": 0.0371,
+    "noise_score": 96.3,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B17",
+    "postcode_count": 797,
+    "noise_mean_lden_db": 46.46,
+    "noise_mean_lnight_db": 45.66,
+    "noise_risk": 0.0417,
+    "noise_score": 95.8,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B18",
+    "postcode_count": 944,
+    "noise_mean_lden_db": 50.0,
+    "noise_mean_lnight_db": 47.52,
+    "noise_risk": 0.1427,
+    "noise_score": 85.7,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B19",
+    "postcode_count": 686,
+    "noise_mean_lden_db": 47.9,
+    "noise_mean_lnight_db": 46.16,
+    "noise_risk": 0.083,
+    "noise_score": 91.7,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B2",
+    "postcode_count": 860,
+    "noise_mean_lden_db": 49.64,
+    "noise_mean_lnight_db": 48.22,
+    "noise_risk": 0.1324,
+    "noise_score": 86.8,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B20",
+    "postcode_count": 755,
+    "noise_mean_lden_db": 47.52,
+    "noise_mean_lnight_db": 45.82,
+    "noise_risk": 0.0719,
+    "noise_score": 92.8,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B21",
+    "postcode_count": 771,
+    "noise_mean_lden_db": 46.7,
+    "noise_mean_lnight_db": 45.78,
+    "noise_risk": 0.0486,
+    "noise_score": 95.1,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B22",
+    "postcode_count": 10,
+    "noise_mean_lden_db": 45.0,
+    "noise_mean_lnight_db": 45.0,
+    "noise_risk": 0.0,
+    "noise_score": 100.0,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B23",
+    "postcode_count": 1265,
+    "noise_mean_lden_db": 49.71,
+    "noise_mean_lnight_db": 47.03,
+    "noise_risk": 0.1347,
+    "noise_score": 86.5,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B24",
+    "postcode_count": 764,
+    "noise_mean_lden_db": 51.3,
+    "noise_mean_lnight_db": 47.66,
+    "noise_risk": 0.18,
+    "noise_score": 82.0,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B25",
+    "postcode_count": 556,
+    "noise_mean_lden_db": 46.06,
+    "noise_mean_lnight_db": 45.47,
+    "noise_risk": 0.0303,
+    "noise_score": 97.0,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B26",
+    "postcode_count": 726,
+    "noise_mean_lden_db": 46.4,
+    "noise_mean_lnight_db": 45.65,
+    "noise_risk": 0.0401,
+    "noise_score": 96.0,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B27",
+    "postcode_count": 524,
+    "noise_mean_lden_db": 46.25,
+    "noise_mean_lnight_db": 45.53,
+    "noise_risk": 0.0357,
+    "noise_score": 96.4,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B28",
+    "postcode_count": 856,
+    "noise_mean_lden_db": 45.91,
+    "noise_mean_lnight_db": 45.32,
+    "noise_risk": 0.0261,
+    "noise_score": 97.4,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B29",
+    "postcode_count": 1118,
+    "noise_mean_lden_db": 46.0,
+    "noise_mean_lnight_db": 45.42,
+    "noise_risk": 0.0285,
+    "noise_score": 97.2,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B3",
+    "postcode_count": 710,
+    "noise_mean_lden_db": 49.36,
+    "noise_mean_lnight_db": 47.64,
+    "noise_risk": 0.1247,
+    "noise_score": 87.5,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B30",
+    "postcode_count": 902,
+    "noise_mean_lden_db": 46.09,
+    "noise_mean_lnight_db": 45.46,
+    "noise_risk": 0.0311,
+    "noise_score": 96.9,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B31",
+    "postcode_count": 1496,
+    "noise_mean_lden_db": 45.6,
+    "noise_mean_lnight_db": 45.25,
+    "noise_risk": 0.017,
+    "noise_score": 98.3,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B32",
+    "postcode_count": 1120,
+    "noise_mean_lden_db": 46.03,
+    "noise_mean_lnight_db": 45.37,
+    "noise_risk": 0.0295,
+    "noise_score": 97.0,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B33",
+    "postcode_count": 941,
+    "noise_mean_lden_db": 45.91,
+    "noise_mean_lnight_db": 45.48,
+    "noise_risk": 0.026,
+    "noise_score": 97.4,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B34",
+    "postcode_count": 384,
+    "noise_mean_lden_db": 45.99,
+    "noise_mean_lnight_db": 45.04,
+    "noise_risk": 0.0284,
+    "noise_score": 97.2,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B35",
+    "postcode_count": 455,
+    "noise_mean_lden_db": 53.25,
+    "noise_mean_lnight_db": 49.64,
+    "noise_risk": 0.2358,
+    "noise_score": 76.4,
+    "noise_band": "Low noise exposure"
+  },
+  {
+    "district": "B36",
+    "postcode_count": 288,
+    "noise_mean_lden_db": 53.4,
+    "noise_mean_lnight_db": 50.0,
+    "noise_risk": 0.2401,
+    "noise_score": 76.0,
+    "noise_band": "Low noise exposure"
+  },
+  {
+    "district": "B37",
+    "postcode_count": 6,
+    "noise_mean_lden_db": 45.0,
+    "noise_mean_lnight_db": 45.0,
+    "noise_risk": 0.0,
+    "noise_score": 100.0,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B38",
+    "postcode_count": 532,
+    "noise_mean_lden_db": 45.72,
+    "noise_mean_lnight_db": 45.25,
+    "noise_risk": 0.0205,
+    "noise_score": 97.9,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B4",
+    "postcode_count": 482,
+    "noise_mean_lden_db": 49.72,
+    "noise_mean_lnight_db": 47.24,
+    "noise_risk": 0.1349,
+    "noise_score": 86.5,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B42",
+    "postcode_count": 789,
+    "noise_mean_lden_db": 50.22,
+    "noise_mean_lnight_db": 47.63,
+    "noise_risk": 0.1491,
+    "noise_score": 85.1,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B43",
+    "postcode_count": 63,
+    "noise_mean_lden_db": 50.12,
+    "noise_mean_lnight_db": 47.04,
+    "noise_risk": 0.1463,
+    "noise_score": 85.4,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B44",
+    "postcode_count": 798,
+    "noise_mean_lden_db": 47.22,
+    "noise_mean_lnight_db": 45.74,
+    "noise_risk": 0.0636,
+    "noise_score": 93.6,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B45",
+    "postcode_count": 568,
+    "noise_mean_lden_db": 45.77,
+    "noise_mean_lnight_db": 45.24,
+    "noise_risk": 0.0219,
+    "noise_score": 97.8,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B47",
+    "postcode_count": 30,
+    "noise_mean_lden_db": 53.46,
+    "noise_mean_lnight_db": 48.62,
+    "noise_risk": 0.2417,
+    "noise_score": 75.8,
+    "noise_band": "Low noise exposure"
+  },
+  {
+    "district": "B48",
+    "postcode_count": 19,
+    "noise_mean_lden_db": 45.0,
+    "noise_mean_lnight_db": 45.0,
+    "noise_risk": 0.0,
+    "noise_score": 100.0,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B5",
+    "postcode_count": 912,
+    "noise_mean_lden_db": 48.57,
+    "noise_mean_lnight_db": 46.76,
+    "noise_risk": 0.1019,
+    "noise_score": 89.8,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B6",
+    "postcode_count": 876,
+    "noise_mean_lden_db": 53.45,
+    "noise_mean_lnight_db": 49.77,
+    "noise_risk": 0.2414,
+    "noise_score": 75.9,
+    "noise_band": "Low noise exposure"
+  },
+  {
+    "district": "B62",
+    "postcode_count": 12,
+    "noise_mean_lden_db": 52.4,
+    "noise_mean_lnight_db": 48.33,
+    "noise_risk": 0.2113,
+    "noise_score": 78.9,
+    "noise_band": "Low noise exposure"
+  },
+  {
+    "district": "B66",
+    "postcode_count": 10,
+    "noise_mean_lden_db": 45.88,
+    "noise_mean_lnight_db": 45.38,
+    "noise_risk": 0.025,
+    "noise_score": 97.5,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B67",
+    "postcode_count": 2,
+    "noise_mean_lden_db": 58.75,
+    "noise_mean_lnight_db": 53.75,
+    "noise_risk": 0.3929,
+    "noise_score": 60.7,
+    "noise_band": "Low noise exposure"
+  },
+  {
+    "district": "B68",
+    "postcode_count": 1,
+    "noise_mean_lden_db": 61.25,
+    "noise_mean_lnight_db": 56.25,
+    "noise_risk": 0.4643,
+    "noise_score": 53.6,
+    "noise_band": "Moderate noise exposure"
+  },
+  {
+    "district": "B7",
+    "postcode_count": 441,
+    "noise_mean_lden_db": 52.17,
+    "noise_mean_lnight_db": 48.14,
+    "noise_risk": 0.205,
+    "noise_score": 79.5,
+    "noise_band": "Low noise exposure"
+  },
+  {
+    "district": "B72",
+    "postcode_count": 376,
+    "noise_mean_lden_db": 47.29,
+    "noise_mean_lnight_db": 45.98,
+    "noise_risk": 0.0655,
+    "noise_score": 93.4,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B73",
+    "postcode_count": 1021,
+    "noise_mean_lden_db": 45.62,
+    "noise_mean_lnight_db": 45.24,
+    "noise_risk": 0.0177,
+    "noise_score": 98.2,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B74",
+    "postcode_count": 579,
+    "noise_mean_lden_db": 46.22,
+    "noise_mean_lnight_db": 45.43,
+    "noise_risk": 0.035,
+    "noise_score": 96.5,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B75",
+    "postcode_count": 811,
+    "noise_mean_lden_db": 45.51,
+    "noise_mean_lnight_db": 45.2,
+    "noise_risk": 0.0147,
+    "noise_score": 98.5,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B76",
+    "postcode_count": 961,
+    "noise_mean_lden_db": 45.89,
+    "noise_mean_lnight_db": 45.33,
+    "noise_risk": 0.0254,
+    "noise_score": 97.5,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B8",
+    "postcode_count": 779,
+    "noise_mean_lden_db": 47.3,
+    "noise_mean_lnight_db": 45.81,
+    "noise_risk": 0.0658,
+    "noise_score": 93.4,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B9",
+    "postcode_count": 809,
+    "noise_mean_lden_db": 45.77,
+    "noise_mean_lnight_db": 45.34,
+    "noise_risk": 0.0219,
+    "noise_score": 97.8,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B92",
+    "postcode_count": 2,
+    "noise_mean_lden_db": 48.12,
+    "noise_mean_lnight_db": 45.0,
+    "noise_risk": 0.0893,
+    "noise_score": 91.1,
+    "noise_band": "Very low noise exposure"
+  },
+  {
+    "district": "B99",
+    "postcode_count": 59,
+    "noise_mean_lden_db": 53.83,
+    "noise_mean_lnight_db": 51.25,
+    "noise_risk": 0.2524,
+    "noise_score": 74.8,
+    "noise_band": "Low noise exposure"
+  }
+]

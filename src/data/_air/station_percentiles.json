@@ -1,0 +1,37 @@
+[
+  {
+    "station": "Status.12",
+    "year": 2025,
+    "p95": 3.0
+  },
+  {
+    "station": "Status.4",
+    "year": 2024,
+    "p95": 3.0
+  },
+  {
+    "station": "Status.7",
+    "year": 2023,
+    "p95": 3.0
+  },
+  {
+    "station": "Status.7",
+    "year": 2024,
+    "p95": 3.0
+  },
+  {
+    "station": "Status.7",
+    "year": 2025,
+    "p95": 3.0
+  },
+  {
+    "station": "Status.8",
+    "year": 2025,
+    "p95": 3.0
+  },
+  {
+    "station": "Status.9",
+    "year": 2025,
+    "p95": 3.0
+  }
+]
